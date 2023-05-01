@@ -1,0 +1,1 @@
+export const EditArticle_btn = () => cy.get('.btn').contains('Edit Article')
